@@ -8,18 +8,19 @@ Project 1
 Before making any purchases, our company, which is new to the aviation sector, wants to know which aircraft types are the least risky. The objective is to reduce the likelihood of deadly mishaps and guarantee safer operations for both residential and commercial applications.
 
 **Approach in Terms of Measurement**
-Evaluation of Kaggle aviation accident dataset (1919–2023) in order to determine which planes have the least danger.
+
+Evaluation of Kaggle aviation accident dataset (1919–2023).
 
 The percentage of fatal accidents that occurred in each type of aircraft is known as the fatal accident percentage.
 
 Total fatalities by type of aircraft: the total effect of each model's accidents.
 
 **Safety Considerations to Look Into**
-In addition to aircraft type, we will investigate:
 
-The time of accidents (by year, decade, and perhaps time of day).
 
-Location of accidents (country, region).
+The time of accidents.
+
+Location of accidents.
 
 Who is in charge of the aircraft—the military, private operators, or commercial airlines?
 
