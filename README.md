@@ -1,28 +1,29 @@
 # Phase-1-Project
-Project 1
+**Project 1**
 
 
 **Finding Aircraft with Low Risk for Business Growth**
 
 **Context of Business**
-Before making any purchases, our company, which is new to the aviation sector, wants to know which aircraft types are the least risky. The objective is to reduce the likelihood of deadly mishaps and guarantee safer operations for both residential and commercial applications.
+Before making any purchases, our company, which is new to the aviation sector, wants to know which aircraft types are the least risky. The objective is to reduce the likelihood of deadly mishaps and guarantee safer operations for both residential and commercial applications. Evaluation of Kaggle aviation accident dataset (1919–2023).
 
-**Approach in Terms of Measurement**
 
-Evaluation of Kaggle aviation accident dataset (1919–2023).
+**A. Approach in Terms of Measurement**
+
 
 The percentage of fatal accidents that occurred in each type of aircraft is known as the fatal accident percentage.
 
 Total fatalities by type of aircraft: the total effect of each model's accidents.
 
-**Safety Considerations to Look Into**
+
+**B. Safety Considerations to Look Into**
 
 
 The time of accidents.
 
 Location of accidents.
 
-Who is in charge of the aircraft—the military, private operators, or commercial airlines?
+Who is in charge of the aircraft: military, private, or commercial?
 
 Which types of accidents happen (according to accident categories).
 
