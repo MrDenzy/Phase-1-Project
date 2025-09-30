@@ -1,21 +1,18 @@
 # Phase-1-Project
 Project 1
 
-AIRCRAFT PROJECT: 
 
-Determining the safest Airplanes to Invest in Business
+**Finding Aircraft with Low Risk for Business Growth**
 
 **Context of Business**
 Before making any purchases, our company, which is new to the aviation sector, wants to know which aircraft types are the least risky. The objective is to reduce the likelihood of deadly mishaps and guarantee safer operations for both residential and commercial applications.
 
-**Approach**
-We will examine the Kaggle aviation accident dataset (1919–2023) in order to determine which planes have the least danger. Our primary precautions will be:
+**Approach in Terms of Measurement**
+Evaluation of Kaggle aviation accident dataset (1919–2023) in order to determine which planes have the least danger.
 
 The percentage of fatal accidents that occurred in each type of aircraft is known as the fatal accident percentage.
 
 Total fatalities by type of aircraft: the total effect of each model's accidents.
-
-Both the probability of a fatal crash and its severity will be displayed by these measurements.
 
 **Safety Considerations to Look Into**
 In addition to aircraft type, we will investigate:
