@@ -11,21 +11,21 @@ Before making any purchases, our company, which is new to the aviation sector, w
 **A. Approach in Terms of Measurement**
 
 
-The percentage of fatal accidents that occurred in each type of aircraft is known as the fatal accident percentage.
+1. The percentage of fatal accidents that occurred in each type of aircraft is known as the fatal accident percentage.
 
-Total fatalities by type of aircraft: the total effect of each model's accidents.
+2. Total fatalities by type of aircraft: the total effect of each model's accidents.
 
 
 **B. Safety Considerations to Look Into**
 
 
-The time of accidents.
+1. The time of accidents.
 
-Location of accidents.
+2. Location of accidents.
 
-Who is in charge of the aircraft: military, private, or commercial?
+3. Who is in charge of the aircraft: military, private, or commercial?
 
-Which types of accidents happen (according to accident categories).
+4. Which types of accidents happen (according to accident categories).
 
 **Anticipated Result**
 We will offer a transparent, data-driven ranking of aircraft types by risk level by integrating these information. This will enable the new aviation division to identify the factors that increase risk the greatest and choose aircraft models that have historically been safer with confidence.
