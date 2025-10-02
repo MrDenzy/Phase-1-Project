@@ -41,3 +41,7 @@ Since reducing fatal accidents is the company's top priority, fatalities are our
 Our study of aviation accident data from 1919 to 2023 shows that modern commercial aircraft like the Boeing 737 and Airbus A320 families are the safest to invest in. Compared to older planes like the Douglas DC-3 or Antonov series, which are responsible for a lot of historical accidents, these models have a lot fewer deaths. Also, the fact that accidents have been going down steadily since the 1980s shows that technology, regulatory oversight, and safety protocols have all gotten better and are now built into newer planes.
 
 The safest course of action for the company's aviation debut is to make investments in contemporary business jets for either private and business use and steer clear of antiquated models with a high accident rate. Further lowering risk exposure will come from operating mostly in areas like Western European countries and North America that have strict aviation safety regulations. The business can confidently expand its airline portfolio while protecting passengers and operations by concentrating on dependable aircraft families with established safety records.
+
+# TABLEAU DASHBOARD
+
+https://public.tableau.com/app/profile/den.murer/viz/IdentifyingtheLowest-RiskAircraftforInvestment/IdentifyingtheLowest-RiskAircraftforInvestment
